@@ -45,7 +45,7 @@ Dr. A. P. J. Abdul Kalam was a renowned scientist and a beloved leader who inspi
 
   ## 🖼️ Screenshots
 
-![Screenshot of APJ Abdul Kalam Tribute Website](link_to_image)
+<img align = "center" alt = "cover" height = "800" width = "1000" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/TRIBUTE-WEBPAGE%F0%9F%91%B1%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F/WebSite%20Screenshort.png">
 
 ---
 
