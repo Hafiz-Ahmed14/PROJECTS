@@ -55,6 +55,8 @@ it is perfect for everyday use and a great resource for beginners learning progr
 <img align = "center" alt = "cover7" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/7.png">
 <img align = "center" alt = "cover8" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/8.png">
 <img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/9.png">
+<img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/10.png">
+<img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/11.png">
 
 
 
