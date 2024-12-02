@@ -46,20 +46,48 @@ it is perfect for everyday use and a great resource for beginners learning progr
 
  ## 🖼️ Screenshots
 
-<img align = "center" alt = "cover1" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/1.png">
-<img align = "center" alt = "cover2" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/2.png">
-<img align = "center" alt = "cover3" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/3.png">
-<img align = "center" alt = "cover4" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/4.png">
-<img align = "center" alt = "cover5" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/5.png">
-<img align = "center" alt = "cover6" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/6.png">
-<img align = "center" alt = "cover7" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/7.png">
-<img align = "center" alt = "cover8" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/8.png">
-<img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/9.png">
-<img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/10.png">
-<img align = "center" alt = "cover9" height = "600" width = "450" src = "https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/11.png">
+<p align="center">
+  <img alt="cover1" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/1.png">
+</p>
+<p align="center">
+  <img alt="cover2" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/2.png">
+</p>
+<p align="center">
+  <img alt="cover3" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/3.png">
+</p>
+<p align="center">
+  <img alt="cover4" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/4.png">
+</p>
+<p align="center">
+  <img alt="cover5" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/5.png">
+</p>
+<p align="center">
+  <img alt="cover6" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/6.png">
+</p>
+<p align="center">
+  <img alt="cover7" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/7.png">
+</p>
+<p align="center">
+  <img alt="cover8" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/8.png">
+</p>
+<p align="center">
+  <img alt="cover9" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/9.png">
+</p>
+<p align="center">
+  <img alt="cover10" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/10.png">
+</p>
+<p align="center">
+  <img alt="cover11" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image/11.png">
+</p>
 
+---
+## 🛠️ Technologies Used  
 
-
+- **HTML**: For the structure and layout of the application.  
+- **CSS**: For styling and creating a user-friendly interface.  
+- **JavaScript**: To handle the functionality and perform calculations dynamically.  
+- **Git**: For version control and project collaboration.  
+- **GitHub**: To host and manage the project repository.
 ---
 
 ## 👥 Contributors
@@ -84,6 +112,6 @@ If you liked this project or have suggestions, feel free to reach out:
 
 
 
-## 🌟 Let’s celebrate the legacy of Calculator! 🚀
+## 🌟 Simple, fast, and reliable – your go-to calculator for everyday needs! 🚀
 
 
