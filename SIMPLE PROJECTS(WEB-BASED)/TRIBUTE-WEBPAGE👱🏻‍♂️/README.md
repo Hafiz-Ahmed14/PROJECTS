@@ -11,7 +11,6 @@
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -62,11 +61,6 @@ Dr. A. P. J. Abdul Kalam was a renowned scientist and a beloved leader who inspi
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share this project.
-
----
 
 ## 🌐 Connect
 
