@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
