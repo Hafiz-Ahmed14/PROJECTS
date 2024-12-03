@@ -11,7 +11,6 @@
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -96,11 +95,6 @@ it is perfect for everyday use and a great resource for beginners learning progr
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share this project.
-
----
 
 ## 🌐 Connect
 
