@@ -48,10 +48,13 @@ Dr. A. P. J. Abdul Kalam was a renowned scientist and a beloved leader who inspi
 
 ---
 
-## 💻 Technologies Used
 
-- **HTML5**: Structure of the website.
-- **CSS3**: Styling for a modern and clean design.
+## 🛠️ Technologies Used  
+
+- **HTML**: For the structure and layout of the application.  
+- **CSS**: For styling and creating a user-friendly interface.    
+- **Git**: For version control and project collaboration.  
+- **GitHub**: To host and manage the project repository.
 
 ---
 
