@@ -51,7 +51,9 @@ The Simon Game is a classic memory challenge where players replicate sequences o
 
  ## 🖼️ Screenshots
 
-
+<p align="center">
+  <img alt="Image Loading" height="600" width="450" src="https://github.com/Hafiz-Ahmed14/PROJECTS/blob/main/SIMPLE%20PROJECTS(WEB-BASED)/BASIC%20CALCULATOR%F0%9F%A7%AE/Output_Image1/1.png">
+</p>
 
 
 
