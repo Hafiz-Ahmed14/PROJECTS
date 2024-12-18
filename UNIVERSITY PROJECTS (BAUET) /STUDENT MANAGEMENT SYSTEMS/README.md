@@ -47,8 +47,9 @@ The Student Management Systems app is a comprehensive solution designed to simpl
 
 ---
 ## 🛠️ Technologies Used  
-
-.
+- **Platform: Android Studio
+- **Programming Language: Java
+- **Database: Firebase Realtime Database
 ---
 
 ## 👥 Contributors
