@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudentAssistants"
+        tools:targetApi="31">
+        <activity
+            android:name=".CourseDetails"
+            android:exported="false" />
+        <activity
+            android:name=".hmToass"
+            android:exported="false" />
+        <activity
+            android:name=".HomeToNote"
+            android:exported="false" />
+        <activity
+            android:name=".HomeToCt"
+            android:exported="false" />
+        <activity
+            android:name=".HomeToAssignment"
+            android:exported="false" />
+        <activity
+            android:name=".StudentNotesGet"
+            android:exported="false" />
+        <activity
+            android:name=".StudentCtGet"
+            android:exported="false" />
+        <activity
+            android:name=".StudentAssignmentGet"
+            android:exported="false" />
+        <activity
+            android:name=".StdAssignmenttwo"
+            android:exported="false" />
+        <activity
+            android:name=".Std"
+            android:exported="false" />
+        <activity
+            android:name=".Student_AssigmnentGet"
+            android:exported="false" />
+        <activity
+            android:name=".StudentFeedback"
+            android:exported="false" />
+        <activity
+            android:name=".StudentCoursedetails"
+            android:exported="false" />
+        <activity
+            android:name=".StudentClassnotes"
+            android:exported="false" />
+        <activity
+            android:name=".StudentClasstest"
+            android:exported="false" />
+        <activity
+            android:name=".StudentAssignment"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherStudentdetails"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherFeedback"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherNote"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherCt"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherAssignment"
+            android:exported="false" />
+        <activity
+            android:name=".TeachersAssignment"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherPanel"
+            android:exported="false" />
+        <activity
+            android:name=".StudentPanel"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterStudent"
+            android:exported="false" />
+        <activity
+            android:name=".StudentLogin"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterTeacher"
+            android:exported="false" />
+        <activity
+            android:name=".TeacherLogin"
+            android:exported="false" />
+        <activity
+            android:name=".HomePage"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

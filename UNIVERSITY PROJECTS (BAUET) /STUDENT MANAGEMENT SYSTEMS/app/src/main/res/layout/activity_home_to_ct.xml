@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/centerbackground"
+    tools:context=".HomeToAssignment">
+
+
+    <TextView
+        android:id="@+id/note_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="96dp"
+        android:text="Select Your Batch:"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/note_10th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="10th"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_textView" />
+    <Button
+        android:id="@+id/note_11th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="11th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_10th" />
+
+    <Button
+        android:id="@+id/note_11th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="11th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_10th" />
+
+    <Button
+        android:id="@+id/note_12th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="12th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_11th" />
+    <Button
+        android:id="@+id/note_13th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="13th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_12th" />
+
+    <Button
+        android:id="@+id/note_14th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="14th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_13th" />
+    <Button
+        android:id="@+id/note_15th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="15th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_14th" />
+    <Button
+        android:id="@+id/note_16th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="16th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_15th" />
+
+    <Button
+        android:id="@+id/note_17th"
+        android:layout_width="196dp"
+        android:layout_height="59dp"
+        android:text="17th"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/note_16th" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

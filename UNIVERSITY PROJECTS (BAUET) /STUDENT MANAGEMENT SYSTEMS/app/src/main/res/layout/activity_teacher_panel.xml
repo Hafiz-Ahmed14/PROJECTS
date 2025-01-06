@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/centerbackground"
+    tools:context=".TeacherPanel">
+
+    <TextView
+
+        android:id="@+id/tp_Panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:text="Teachers Panel"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.447"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/tcp_assignment"
+        android:layout_width="235dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="70dp"
+        android:text="Assignment"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tp_Panel" />
+
+    <Button
+        android:id="@+id/tp_Ctest"
+        android:layout_width="224dp"
+        android:layout_height="65dp"
+        android:text="Class Test"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tcp_assignment" />
+
+    <Button
+        android:id="@+id/tp_CNote"
+        android:layout_width="225dp"
+        android:layout_height="62dp"
+        android:text="Class Notes"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tp_Ctest" />
+
+    <Button
+        android:id="@+id/tstd_button"
+        android:layout_width="231dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="5dp"
+        android:text="Student Details"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tp_CNote" />
+
+    <Button
+        android:id="@+id/tp_Feedback"
+        android:layout_width="235dp"
+        android:layout_height="66dp"
+        android:text="Feedback"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tstd_button" />
+
+    <Button
+        android:id="@+id/tclogout"
+        android:layout_width="235dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="5dp"
+        android:text="Logout"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tp_Feedback" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
